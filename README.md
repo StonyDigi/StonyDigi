@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @StonyDigi
-- 🌱 I'm currently studying ... java backend.
+- 🌱 I am currently studying ... java backend in the webler training studio.
 
 
 <!---
