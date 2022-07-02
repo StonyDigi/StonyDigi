@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @StonyDigi
-- 🌱 I am currently studying ... java backend in the webler training studio.
+- 🌱I am looking for a Java junior backend remote job, in the web direction, e.g. Spring boot, html, css, etc...
 
 
 <!---
