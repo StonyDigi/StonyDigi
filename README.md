@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @StonyDigi
-- 🌱I am looking for a Java junior backend remote job, in the web direction, e.g. Spring boot, html, css, etc...
+- 🌱I am looking for a Java junior backend remote job, in the web direction, e.g. Spring boot, html, css, angular, node.js etc...
 
 
 <!---
